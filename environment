@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export GOLLYX_STAR_II_PELICAN_THEME_HOME="$HOME/golly/gollyx-star-ii-pelican-theme"
